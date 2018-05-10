@@ -17,6 +17,8 @@ public class MainActivity extends AppCompatActivity {
 
         btnSignIn = (Button)findViewById(R.id.btnsignin);
         btnSignup = (Button)findViewById(R.id.btnsignup);
+
+        txtSlogan = (TextView)findViewById(R.id.txtslogan);
     }
 }
 
