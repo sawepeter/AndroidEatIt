@@ -3,6 +3,7 @@ package com.example.sawepeter.androideatit;
 import android.graphics.Typeface;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
@@ -23,7 +24,21 @@ public class MainActivity extends AppCompatActivity {
         Typeface face =Typeface.createFromAsset(getAssets(),"fonts/Nabila.ttf");
         txtSlogan.setTypeface(face);
 
-        
+        btnSignIn.setOnClickListener(new View.OnClickListener(){
+
+            @Override
+            public void onClick(View v) {
+
+            }
+        });
+
+        btnSignup.setOnClickListener(new View.OnClickListener(){
+
+            @Override
+            public void onClick(View v) {
+
+            }
+        });
     }
 }
 
