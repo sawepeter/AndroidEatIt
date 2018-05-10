@@ -39,7 +39,7 @@ public class SignIn extends AppCompatActivity {
                     public void onDataChange(DataSnapshot dataSnapshot) {
                         //get user information
                         user user = dataSnapshot.child(edtPhone.getText().toString()).getValue(user.class);
-
+                        if ()
                     }
 
                     @Override
