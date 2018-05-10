@@ -1,5 +1,6 @@
 package com.example.sawepeter.androideatit;
 
+import android.graphics.Typeface;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.Button;
@@ -19,6 +20,10 @@ public class MainActivity extends AppCompatActivity {
         btnSignup = (Button)findViewById(R.id.btnsignup);
 
         txtSlogan = (TextView)findViewById(R.id.txtslogan);
+        Typeface face =Typeface.createFromAsset(getAssets(),"fonts/Nabila.ttf");
+        txtSlogan.setTypeface(face);
+
+        
     }
 }
 
