@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.Toast;
 
 import com.example.sawepeter.androideatit.Model.user;
 import com.google.firebase.database.DataSnapshot;
@@ -38,8 +39,10 @@ public class SignIn extends AppCompatActivity {
                     @Override
                     public void onDataChange(DataSnapshot dataSnapshot) {
                         //get user information
-                        user user = dataSnapshot.child(edtPhone.getText().toString()).getValue(user.class);
-                        if ()
+                        user sawe = dataSnapshot.child(edtPhone.getText().toString()).getValue(user.class);
+                        if (sawe.getPassword().equals(edtPassword.getText().toString())){
+                            Toast
+                        }
                     }
 
                     @Override
