@@ -40,7 +40,7 @@
         <info.hoang8f.widget.FButton
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:text="SignUp"
+            android:text="@string/signup"
             android:layout_weight="1"
             android:id="@+id/btnsignup"
             android:layout_margin="8dp"
@@ -54,7 +54,7 @@
         <info.hoang8f.widget.FButton
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:text="SignIn"
+            android:text="@string/signin"
             android:layout_weight="1"
             android:id="@+id/btnsignin"
             android:layout_margin="8dp"
