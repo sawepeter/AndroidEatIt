@@ -5,4 +5,6 @@ package com.example.sawepeter.androideatit.Model;
  */
 
 public class user {
+    private String Name;
+    private 
 }
