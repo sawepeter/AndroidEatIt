@@ -43,6 +43,10 @@ public class SignIn extends AppCompatActivity {
                         if (sawe.getPassword().equals(edtPassword.getText().toString())){
                             Toast.makeText(SignIn.this, "Sign in successfully !", Toast.LENGTH_SHORT).show();
                         }
+                        else
+                        {
+                            Toast.makeText(SignIn.this, "Sign in failed", Toast.LENGTH_SHORT).show();
+                        }
                     }
 
                     @Override
