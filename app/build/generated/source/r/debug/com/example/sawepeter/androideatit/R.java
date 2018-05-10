@@ -2502,7 +2502,8 @@ containing a value of this type.
         public static final int abc_config_activityDefaultDur=0x7f0c0000;
         public static final int abc_config_activityShortDur=0x7f0c0001;
         public static final int cancel_button_image_alpha=0x7f0c0002;
-        public static final int status_bar_notification_info_maxnum=0x7f0c0003;
+        public static final int google_play_services_version=0x7f0c0003;
+        public static final int status_bar_notification_info_maxnum=0x7f0c0004;
     }
     public static final class layout {
         public static final int abc_action_bar_title_item=0x7f040000;
@@ -2532,18 +2533,19 @@ containing a value of this type.
         public static final int abc_search_view=0x7f040018;
         public static final int abc_select_dialog_material=0x7f040019;
         public static final int activity_main=0x7f04001a;
-        public static final int notification_media_action=0x7f04001b;
-        public static final int notification_media_cancel_action=0x7f04001c;
-        public static final int notification_template_big_media=0x7f04001d;
-        public static final int notification_template_big_media_narrow=0x7f04001e;
-        public static final int notification_template_lines=0x7f04001f;
-        public static final int notification_template_media=0x7f040020;
-        public static final int notification_template_part_chronometer=0x7f040021;
-        public static final int notification_template_part_time=0x7f040022;
-        public static final int select_dialog_item_material=0x7f040023;
-        public static final int select_dialog_multichoice_material=0x7f040024;
-        public static final int select_dialog_singlechoice_material=0x7f040025;
-        public static final int support_simple_spinner_dropdown_item=0x7f040026;
+        public static final int activity_sign_in=0x7f04001b;
+        public static final int notification_media_action=0x7f04001c;
+        public static final int notification_media_cancel_action=0x7f04001d;
+        public static final int notification_template_big_media=0x7f04001e;
+        public static final int notification_template_big_media_narrow=0x7f04001f;
+        public static final int notification_template_lines=0x7f040020;
+        public static final int notification_template_media=0x7f040021;
+        public static final int notification_template_part_chronometer=0x7f040022;
+        public static final int notification_template_part_time=0x7f040023;
+        public static final int select_dialog_item_material=0x7f040024;
+        public static final int select_dialog_multichoice_material=0x7f040025;
+        public static final int select_dialog_singlechoice_material=0x7f040026;
+        public static final int support_simple_spinner_dropdown_item=0x7f040027;
     }
     public static final class mipmap {
         public static final int ic_launcher=0x7f030000;
@@ -2559,18 +2561,18 @@ containing a value of this type.
         public static final int abc_activitychooserview_choose_application=0x7f060007;
         public static final int abc_capital_off=0x7f060008;
         public static final int abc_capital_on=0x7f060009;
-        public static final int abc_font_family_body_1_material=0x7f060015;
-        public static final int abc_font_family_body_2_material=0x7f060016;
-        public static final int abc_font_family_button_material=0x7f060017;
-        public static final int abc_font_family_caption_material=0x7f060018;
-        public static final int abc_font_family_display_1_material=0x7f060019;
-        public static final int abc_font_family_display_2_material=0x7f06001a;
-        public static final int abc_font_family_display_3_material=0x7f06001b;
-        public static final int abc_font_family_display_4_material=0x7f06001c;
-        public static final int abc_font_family_headline_material=0x7f06001d;
-        public static final int abc_font_family_menu_material=0x7f06001e;
-        public static final int abc_font_family_subhead_material=0x7f06001f;
-        public static final int abc_font_family_title_material=0x7f060020;
+        public static final int abc_font_family_body_1_material=0x7f060016;
+        public static final int abc_font_family_body_2_material=0x7f060017;
+        public static final int abc_font_family_button_material=0x7f060018;
+        public static final int abc_font_family_caption_material=0x7f060019;
+        public static final int abc_font_family_display_1_material=0x7f06001a;
+        public static final int abc_font_family_display_2_material=0x7f06001b;
+        public static final int abc_font_family_display_3_material=0x7f06001c;
+        public static final int abc_font_family_display_4_material=0x7f06001d;
+        public static final int abc_font_family_headline_material=0x7f06001e;
+        public static final int abc_font_family_menu_material=0x7f06001f;
+        public static final int abc_font_family_subhead_material=0x7f060020;
+        public static final int abc_font_family_title_material=0x7f060021;
         public static final int abc_search_hint=0x7f06000a;
         public static final int abc_searchview_description_clear=0x7f06000b;
         public static final int abc_searchview_description_query=0x7f06000c;
@@ -2580,12 +2582,20 @@ containing a value of this type.
         public static final int abc_shareactionprovider_share_with=0x7f060010;
         public static final int abc_shareactionprovider_share_with_application=0x7f060011;
         public static final int abc_toolbar_collapse_description=0x7f060012;
-        public static final int app_name=0x7f060021;
-        public static final int search_menu_title=0x7f060013;
-        public static final int signin=0x7f060022;
-        public static final int signup=0x7f060023;
-        public static final int status_bar_notification_info_overflow=0x7f060014;
-        public static final int txt_logan=0x7f060024;
+        public static final int app_name=0x7f060022;
+        public static final int common_google_play_services_unknown_issue=0x7f060013;
+        public static final int default_web_client_id=0x7f060023;
+        public static final int firebase_database_url=0x7f060024;
+        public static final int gcm_defaultSenderId=0x7f060025;
+        public static final int google_api_key=0x7f060026;
+        public static final int google_app_id=0x7f060027;
+        public static final int google_crash_reporting_api_key=0x7f060028;
+        public static final int google_storage_bucket=0x7f060029;
+        public static final int search_menu_title=0x7f060014;
+        public static final int signin=0x7f06002a;
+        public static final int signup=0x7f06002b;
+        public static final int status_bar_notification_info_overflow=0x7f060015;
+        public static final int txt_logan=0x7f06002c;
     }
     public static final class style {
         public static final int AlertDialog_AppCompat=0x7f08008a;

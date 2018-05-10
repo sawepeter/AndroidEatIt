@@ -3,4 +3,5 @@
     <string name="txt_logan">No matter where you are: whether you are at home, or in th office or in the beach- We will find you and we will feed you </string>
     <string name="signin">SignIn</string>
     <string name="signup">SignUp</string>
+    <string name="phone_number">Phone Number</string>
 </resources>
