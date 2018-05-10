@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "683298396751",
+    "firebase_url": "https://androideati-7db8d.firebaseio.com",
+    "project_id": "androideati-7db8d",
+    "storage_bucket": "androideati-7db8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683298396751:android:a866d625f8c1540f",
+        "android_client_info": {
+          "package_name": "com.example.sawepeter.androideatit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683298396751-ij6l8tdhf3i23c5ij2mk7ivkdojvd4a0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbmkZhVl4lBqLR-rPZ7WSR_6EZ3dhRX98"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
