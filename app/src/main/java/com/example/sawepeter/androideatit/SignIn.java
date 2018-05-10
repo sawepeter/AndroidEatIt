@@ -1,5 +1,6 @@
 package com.example.sawepeter.androideatit;
 
+import android.app.ProgressDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -35,6 +36,12 @@ public class SignIn extends AppCompatActivity {
         btnsigin.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+
+                ProgressDialog mDialog = new ProgressDialog(SignIn.this);
+                mDialog.setMessage("Please waiting...");
+                mDialog.show();
+
+                
                 table_user.addValueEventListener(new ValueEventListener() {
                     @Override
                     public void onDataChange(DataSnapshot dataSnapshot) {
