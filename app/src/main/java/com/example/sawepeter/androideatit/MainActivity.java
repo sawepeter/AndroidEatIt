@@ -21,8 +21,8 @@ public class MainActivity extends AppCompatActivity {
         btnSignup = (Button)findViewById(R.id.btnsignup);
 
         txtSlogan = (TextView)findViewById(R.id.txtslogan);
-        Typeface face =Typeface.createFromAsset(getAssets(),"fonts/Nabila.ttf");
-        txtSlogan.setTypeface(face);
+       // Typeface face =Typeface.createFromAsset(getAssets(),"fonts/Nabila.ttf");
+        //txtSlogan.setTypeface(face);
 
         btnSignIn.setOnClickListener(new View.OnClickListener(){
 
