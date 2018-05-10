@@ -1,5 +1,6 @@
 package com.example.sawepeter.androideatit;
 
+import android.content.Intent;
 import android.graphics.Typeface;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -28,6 +29,8 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             public void onClick(View v) {
+                Intent sigin  = new Intent(this,SignIn.class);
+                startActivity(sigin);
 
             }
         });
