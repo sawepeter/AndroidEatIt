@@ -37,15 +37,16 @@ public class SignIn extends AppCompatActivity {
             @Override
             public void onClick(View v) {
 
-                ProgressDialog mDialog = new ProgressDialog(SignIn.this);
+                final ProgressDialog mDialog = new ProgressDialog(SignIn.this);
                 mDialog.setMessage("Please waiting...");
                 mDialog.show();
 
-                
+
                 table_user.addValueEventListener(new ValueEventListener() {
                     @Override
                     public void onDataChange(DataSnapshot dataSnapshot) {
                         //get user information
+                        mDialog.dismiss();
                         user sawe = dataSnapshot.child(edtPhone.getText().toString()).getValue(user.class);
                         if (sawe.getPassword().equals(edtPassword.getText().toString())){
                             Toast.makeText(SignIn.this, "Sign in successfully !", Toast.LENGTH_SHORT).show();
