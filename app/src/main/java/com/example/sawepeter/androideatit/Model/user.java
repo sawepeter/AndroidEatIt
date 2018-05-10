@@ -7,4 +7,14 @@ package com.example.sawepeter.androideatit.Model;
 public class user {
     private String Name;
     private String Password;
+
+    public user() {
+    }
+
+    public user(String name, String password) {
+        Name = name;
+        Password = password;
+    }
+
+    
 }
