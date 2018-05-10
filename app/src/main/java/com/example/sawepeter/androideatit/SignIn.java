@@ -45,15 +45,19 @@ public class SignIn extends AppCompatActivity {
                 table_user.addValueEventListener(new ValueEventListener() {
                     @Override
                     public void onDataChange(DataSnapshot dataSnapshot) {
-                        //get user information
-                        mDialog.dismiss();
-                        user sawe = dataSnapshot.child(edtPhone.getText().toString()).getValue(user.class);
-                        if (sawe.getPassword().equals(edtPassword.getText().toString())){
-                            Toast.makeText(SignIn.this, "Sign in successfully !", Toast.LENGTH_SHORT).show();
-                        }
-                        else
-                        {
-                            Toast.makeText(SignIn.this, "Sign in failed", Toast.LENGTH_SHORT).show();
+
+                        //check if user not exist in database
+                        if (dataSnapshot.child(edtPhone.getText().toString()).exists()) {
+                            //get user information
+                            mDialog.dismiss();
+                            user sawe = dataSnapshot.child(edtPhone.getText().toString()).getValue(user.class);
+                            if (sawe.getPassword().equals(edtPassword.getText().toString())) {
+                                Toast.makeText(SignIn.this, "Sign in successfully !", Toast.LENGTH_SHORT).show();
+                            } else {
+                                Toast.makeText(SignIn.this, "Sign in failed", Toast.LENGTH_SHORT).show();
+                            }
+                        } else {
+                            Toast.makeText(SignIn.this, "User not exist in Database", Toast.LENGTH_SHORT).show();
                         }
                     }
 
