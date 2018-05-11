@@ -42,6 +42,11 @@ public class SignUp extends AppCompatActivity {
                 table_user.addValueEventListener(new ValueEventListener() {
                     @Override
                     public void onDataChange(DataSnapshot dataSnapshot) {
+                        //check if already user phone
+                        if (dataSnapshot.child(edtphone.getText().toString()).exists())
+                        {
+                            
+                        }
 
                     }
 
