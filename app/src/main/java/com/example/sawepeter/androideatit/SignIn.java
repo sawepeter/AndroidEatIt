@@ -57,6 +57,7 @@ public class SignIn extends AppCompatActivity {
                                 Toast.makeText(SignIn.this, "Sign in failed", Toast.LENGTH_SHORT).show();
                             }
                         } else {
+                            mDialog.dismiss();
                             Toast.makeText(SignIn.this, "User not exist in Database", Toast.LENGTH_SHORT).show();
                         }
                     }
