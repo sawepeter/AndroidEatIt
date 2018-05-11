@@ -34,7 +34,7 @@
         <com.rengwuxian.materialedittext.MaterialEditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/edtphone"
+            android:id="@+id/edtName"
             android:hint="@string/phone_number"
             android:textColorHint="@android:color/white"
             android:text="0725638451"
