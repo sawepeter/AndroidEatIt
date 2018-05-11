@@ -48,8 +48,16 @@
         "source": "C:\\Users\\SAWE PETER\\.android\\build-cache\\a2fb50b6fc9f10ca5ce42085fb0f826f8cf588de\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
+        "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.jpg",
+        "source": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable\\bg.jpg"
+    },
+    {
         "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
         "source": "C:\\Users\\SAWE PETER\\.android\\build-cache\\a2fb50b6fc9f10ca5ce42085fb0f826f8cf588de\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bag.jpg",
+        "source": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable\\bag.jpg"
     },
     {
         "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",

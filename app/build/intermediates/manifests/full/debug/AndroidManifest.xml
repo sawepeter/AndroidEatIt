@@ -34,6 +34,7 @@
             </intent-filter>
         </activity>
         <activity android:name="com.example.sawepeter.androideatit.SignIn" />
+        <activity android:name="com.example.sawepeter.androideatit.SignUp" />
 
         <receiver
             android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
