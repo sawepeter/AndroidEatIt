@@ -112,6 +112,7 @@
     <orderEntry type="library" exported="" name="cardview-v7-26.0.0-alpha1" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="jsr305-2.0.1" level="project" />
     <orderEntry type="library" exported="" name="firebase-iid-10.0.1" level="project" />
+    <orderEntry type="library" exported="" name="design-24.2.1" level="project" />
     <orderEntry type="library" exported="" name="support-media-compat-24.2.1" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="espresso-core-2.2.2" level="project" />
     <orderEntry type="library" exported="" name="library-2.4.0" level="project" />

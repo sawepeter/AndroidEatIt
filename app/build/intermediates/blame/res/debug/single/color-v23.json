@@ -34,5 +34,9 @@
     {
         "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
         "source": "C:\\Users\\SAWE PETER\\.android\\build-cache\\a2fb50b6fc9f10ca5ce42085fb0f826f8cf588de\\output\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\SAWE PETER\\.android\\build-cache\\266f37af82d5cb565c88d1506e59397d575241fb\\output\\res\\color-v23\\design_tint_password_toggle.xml"
     }
 ]

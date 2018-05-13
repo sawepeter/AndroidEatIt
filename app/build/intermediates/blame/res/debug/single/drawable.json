@@ -52,6 +52,10 @@
         "source": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable\\bg.jpg"
     },
     {
+        "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\SAWE PETER\\.android\\build-cache\\266f37af82d5cb565c88d1506e59397d575241fb\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
         "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
         "source": "C:\\Users\\SAWE PETER\\.android\\build-cache\\a2fb50b6fc9f10ca5ce42085fb0f826f8cf588de\\output\\res\\drawable\\abc_vector_test.xml"
     },
@@ -124,8 +128,16 @@
         "source": "C:\\Users\\SAWE PETER\\.android\\build-cache\\a2fb50b6fc9f10ca5ce42085fb0f826f8cf588de\\output\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
+        "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\SAWE PETER\\.android\\build-cache\\266f37af82d5cb565c88d1506e59397d575241fb\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
         "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
         "source": "C:\\Users\\SAWE PETER\\.android\\build-cache\\a2fb50b6fc9f10ca5ce42085fb0f826f8cf588de\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
     },
     {
         "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
@@ -162,5 +174,13 @@
     {
         "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
         "source": "C:\\Users\\SAWE PETER\\.android\\build-cache\\a2fb50b6fc9f10ca5ce42085fb0f826f8cf588de\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_ic_visibility.xml",
+        "source": "C:\\Users\\SAWE PETER\\.android\\build-cache\\266f37af82d5cb565c88d1506e59397d575241fb\\output\\res\\drawable\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\SAWE PETER\\.android\\build-cache\\266f37af82d5cb565c88d1506e59397d575241fb\\output\\res\\drawable\\design_fab_background.xml"
     }
 ]

@@ -4,8 +4,16 @@
         "source": "C:\\Users\\SAWE PETER\\.android\\build-cache\\a2fb50b6fc9f10ca5ce42085fb0f826f8cf588de\\output\\res\\anim\\abc_slide_in_top.xml"
     },
     {
+        "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\SAWE PETER\\.android\\build-cache\\266f37af82d5cb565c88d1506e59397d575241fb\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
         "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
         "source": "C:\\Users\\SAWE PETER\\.android\\build-cache\\a2fb50b6fc9f10ca5ce42085fb0f826f8cf588de\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\SAWE PETER\\.android\\build-cache\\266f37af82d5cb565c88d1506e59397d575241fb\\output\\res\\anim\\design_fab_in.xml"
     },
     {
         "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
@@ -16,12 +24,24 @@
         "source": "C:\\Users\\SAWE PETER\\.android\\build-cache\\a2fb50b6fc9f10ca5ce42085fb0f826f8cf588de\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
+        "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\SAWE PETER\\.android\\build-cache\\266f37af82d5cb565c88d1506e59397d575241fb\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
         "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
         "source": "C:\\Users\\SAWE PETER\\.android\\build-cache\\a2fb50b6fc9f10ca5ce42085fb0f826f8cf588de\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
+        "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\SAWE PETER\\.android\\build-cache\\266f37af82d5cb565c88d1506e59397d575241fb\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
         "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
         "source": "C:\\Users\\SAWE PETER\\.android\\build-cache\\a2fb50b6fc9f10ca5ce42085fb0f826f8cf588de\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\SAWE PETER\\.android\\build-cache\\266f37af82d5cb565c88d1506e59397d575241fb\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
     },
     {
         "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
@@ -38,5 +58,9 @@
     {
         "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
         "source": "C:\\Users\\SAWE PETER\\.android\\build-cache\\a2fb50b6fc9f10ca5ce42085fb0f826f8cf588de\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\SAWE PETER\\.android\\build-cache\\266f37af82d5cb565c88d1506e59397d575241fb\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
     }
 ]

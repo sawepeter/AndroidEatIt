@@ -39,6 +39,10 @@
         </activity>
         <activity android:name="com.example.sawepeter.androideatit.SignIn" />
         <activity android:name="com.example.sawepeter.androideatit.SignUp" />
+        <activity
+            android:name="com.example.sawepeter.androideatit.Home"
+            android:label="@string/title_activity_home"
+            android:theme="@style/AppTheme" />
 
         <receiver
             android:name="com.google.android.gms.measurement.AppMeasurementReceiver"

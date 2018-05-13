@@ -1738,6 +1738,27 @@
                         "endOffset": 18445
                     }
                 }
+            },
+            {
+                "to": {
+                    "startLine": 253,
+                    "startColumn": 4,
+                    "startOffset": 18450,
+                    "endLine": 255,
+                    "endColumn": 12,
+                    "endOffset": 18639
+                },
+                "from": {
+                    "file": "C:\\Users\\SAWE PETER\\.android\\build-cache\\266f37af82d5cb565c88d1506e59397d575241fb\\output\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 244
+                    }
+                }
             }
         ]
     }
