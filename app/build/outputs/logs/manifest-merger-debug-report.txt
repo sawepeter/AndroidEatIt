@@ -26,6 +26,7 @@ MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\U
 MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\SAWE PETER\.android\build-cache\a2fb50b6fc9f10ca5ce42085fb0f826f8cf588de\output\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\SAWE PETER\.android\build-cache\d273cc4881e7e2f400537b068f577ebc577725b6\output\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\SAWE PETER\.android\build-cache\9aa9f882ee5f4fe9ef25e90ce184726b49694129\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\3c8a79129dfeaf22e5ed0c0c1a0e51da4e4f2ef6\output\AndroidManifest.xml:26:5-20
 MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Users\SAWE PETER\.android\build-cache\9b1440b552f4df7886099e0e5eb82713098f4160\output\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\SAWE PETER\.android\build-cache\f6ce430b47e611e1f38e64c9aaf36d09ffe20587\output\AndroidManifest.xml:24:5-33:19
 MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\SAWE PETER\.android\build-cache\02d1651d16e727111c738ee4c496a90fd558cf6f\output\AndroidManifest.xml:24:5-28:19
@@ -36,9 +37,9 @@ MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\SAWE
 MERGED from [com.android.support:support-v4:24.2.1] C:\Users\SAWE PETER\.android\build-cache\e1045aa0de1637a85ff9b1164259c5028f1fecf3\output\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\SAWE PETER\.android\build-cache\e94e9db50d3e4a6b4dbfa9451e64a315786ca528\output\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\SAWE PETER\.android\build-cache\c389468b91b0518533f1d17c853fb91b7b939eb9\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\SAWE PETER\.android\build-cache\b8efb0de492193959492a60d938190ce996aa224\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\b50f2c5cc4bdf15cb522ef4426f1f28222767a2a\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\SAWE PETER\.android\build-cache\af51bcb940cb8033df1714dbf61fa44bb79a6355\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:24.2.1] C:\Users\SAWE PETER\.android\build-cache\391943c27614295bfd0f99b3e09ec51c971d065c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\83246925cdaeaec7071e808a1c9224eb31c77d74\output\AndroidManifest.xml:29:5-20
 	android:label
 		ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml:9:9-41
 	android:supportsRtl
@@ -81,6 +82,8 @@ MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\SAWE 
 MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\SAWE PETER\.android\build-cache\9aa9f882ee5f4fe9ef25e90ce184726b49694129\output\AndroidManifest.xml:21:5-43
 MERGED from [com.google.firebase:firebase-database:10.0.1] C:\Users\SAWE PETER\.android\build-cache\f4ead4cc43fd895458ef29dcd1afdd52bb6c93c8\output\AndroidManifest.xml:3:5-42
 MERGED from [com.google.firebase:firebase-database-connection:10.0.1] C:\Users\SAWE PETER\.android\build-cache\4cfbb2fba481996f32b01f5153d9590fbc1357e3\output\AndroidManifest.xml:3:5-42
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\3c8a79129dfeaf22e5ed0c0c1a0e51da4e4f2ef6\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\c0fdae63d1d6067e5a8d9e4f950b4d250903f9de\output\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Users\SAWE PETER\.android\build-cache\9b1440b552f4df7886099e0e5eb82713098f4160\output\AndroidManifest.xml:4:5-42
 MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\SAWE PETER\.android\build-cache\f6ce430b47e611e1f38e64c9aaf36d09ffe20587\output\AndroidManifest.xml:17:5-42
 MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\SAWE PETER\.android\build-cache\02d1651d16e727111c738ee4c496a90fd558cf6f\output\AndroidManifest.xml:17:5-42
@@ -91,9 +94,9 @@ MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\SAWE
 MERGED from [com.android.support:support-v4:24.2.1] C:\Users\SAWE PETER\.android\build-cache\e1045aa0de1637a85ff9b1164259c5028f1fecf3\output\AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\SAWE PETER\.android\build-cache\e94e9db50d3e4a6b4dbfa9451e64a315786ca528\output\AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\SAWE PETER\.android\build-cache\c389468b91b0518533f1d17c853fb91b7b939eb9\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\SAWE PETER\.android\build-cache\b8efb0de492193959492a60d938190ce996aa224\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\b50f2c5cc4bdf15cb522ef4426f1f28222767a2a\output\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\SAWE PETER\.android\build-cache\af51bcb940cb8033df1714dbf61fa44bb79a6355\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:24.2.1] C:\Users\SAWE PETER\.android\build-cache\391943c27614295bfd0f99b3e09ec51c971d065c\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\83246925cdaeaec7071e808a1c9224eb31c77d74\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\SAWE PETER\.android\build-cache\a2fb50b6fc9f10ca5ce42085fb0f826f8cf588de\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
@@ -102,6 +105,15 @@ MERGED from [com.android.support:support-compat:24.2.1] C:\Users\SAWE PETER\.and
 	android:minSdkVersion
 		INJECTED from C:\Users\SAWE PETER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\SAWE PETER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\3c8a79129dfeaf22e5ed0c0c1a0e51da4e4f2ef6\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\c0fdae63d1d6067e5a8d9e4f950b4d250903f9de\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\b50f2c5cc4bdf15cb522ef4426f1f28222767a2a\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\83246925cdaeaec7071e808a1c9224eb31c77d74\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\3c8a79129dfeaf22e5ed0c0c1a0e51da4e4f2ef6\output\AndroidManifest.xml:24:9-38
+	android:name
+		ADDED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\3c8a79129dfeaf22e5ed0c0c1a0e51da4e4f2ef6\output\AndroidManifest.xml:23:9-47
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\SAWE PETER\.android\build-cache\f6ce430b47e611e1f38e64c9aaf36d09ffe20587\output\AndroidManifest.xml:21:5-78
 MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\SAWE PETER\.android\build-cache\02d1651d16e727111c738ee4c496a90fd558cf6f\output\AndroidManifest.xml:21:5-78

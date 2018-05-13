@@ -4,4 +4,10 @@
     <string name="signin">SignIn</string>
     <string name="signup">SignUp</string>
     <string name="phone_number">Phone Number</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
 </resources>
