@@ -8,8 +8,14 @@ import android.view.View;
  */
 
 public class MenuViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener{
+
+
+    public MenuViewHolder(View itemView) {
+        super(itemView);
+    }
+
     @Override
     public void onClick(View v) {
-        
+
     }
 }
