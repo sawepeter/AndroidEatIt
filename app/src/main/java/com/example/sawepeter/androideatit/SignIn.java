@@ -1,6 +1,7 @@
 package com.example.sawepeter.androideatit;
 
 import android.app.ProgressDialog;
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -52,7 +53,8 @@ public class SignIn extends AppCompatActivity {
                             mDialog.dismiss();
                             user sawe = dataSnapshot.child(edtPhone.getText().toString()).getValue(user.class);
                             if (sawe.getPassword().equals(edtPassword.getText().toString())) {
-                                Toast.makeText(SignIn.this, "Sign in successfully !", Toast.LENGTH_SHORT).show();
+
+                                Intent homeIntent = new Intent(SignIn.this,Home.class);
                             } else {
                                 Toast.makeText(SignIn.this, "Incorrect Password !!!", Toast.LENGTH_SHORT).show();
                             }
