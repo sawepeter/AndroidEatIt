@@ -5,4 +5,6 @@ package com.example.sawepeter.androideatit.Model;
  */
 
 public class Category {
+    private String Name;
+    private String Image;
 }
