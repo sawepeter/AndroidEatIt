@@ -16,6 +16,8 @@ public class MenuViewHolder extends RecyclerView.ViewHolder implements View.OnCl
 
     public MenuViewHolder(View itemView) {
         super(itemView);
+
+        txtMenuName = (TextView)itemView.findViewById(R.id.)
     }
 
     @Override
