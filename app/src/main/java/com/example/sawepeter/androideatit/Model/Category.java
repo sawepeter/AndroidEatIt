@@ -10,4 +10,9 @@ public class Category {
 
     public Category() {
     }
+
+    public Category(String name, String image) {
+        Name = name;
+        Image = image;
+    }
 }
