@@ -32,7 +32,7 @@ public class Home extends AppCompatActivity
 
         //init firebase
         database = FirebaseDatabase.getInstance();
-        category = database.getReference()
+        category = database.getReference("Category");
 
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
