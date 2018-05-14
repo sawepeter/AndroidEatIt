@@ -56,6 +56,7 @@ public class Home extends AppCompatActivity
 
 
         //set Name for user
+        View headerview= navigationView.getHeaderView(0)
     }
 
     @Override
