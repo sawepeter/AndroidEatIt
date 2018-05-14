@@ -30,6 +30,10 @@ public class Home extends AppCompatActivity
         toolbar.setTitle("Menu");
         setSupportActionBar(toolbar);
 
+        //init firebase
+        database = FirebaseDatabase.getInstance();
+        category = database.getReference()
+
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
