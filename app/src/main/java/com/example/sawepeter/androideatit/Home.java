@@ -23,7 +23,10 @@ public class Home extends AppCompatActivity
 
     FirebaseDatabase database;
     DatabaseReference category;
-    TextView txtfullname;
+    
+    TextView txtFullName;
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -58,8 +61,9 @@ public class Home extends AppCompatActivity
 
         //set Name for user
         View headerview= navigationView.getHeaderView(0);
-        txtfullname = (TextView)findViewById(R.id.txtfullname);
-        txtfullname.setText(Common.currentuser.getName());
+        txtFullName = (TextView)findViewById(R.id.txtfullName);
+        txtFullName.setText(Common.currentuser.getName());
+        
     }
 
     @Override
