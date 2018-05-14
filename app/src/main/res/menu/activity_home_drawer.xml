@@ -21,6 +21,6 @@
             android:id="@+id/nav_log_out"
             android:icon="@drawable/ic_access_time_black_24dp"
             android:iconTint="@color/white"
-            android:title="Logout" />
+            android:title="Sign out" />
     </group>
 </menu>
