@@ -2,5 +2,9 @@
     {
         "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\met_ic_clear.png",
         "source": "C:\\Users\\SAWE PETER\\.android\\build-cache\\b7a1c0f37a727d17e528fe0cacb68ef4072e51de\\output\\res\\drawable-xxxhdpi\\met_ic_clear.png"
+    },
+    {
+        "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_shopping_cart_black_24dp.png",
+        "source": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_shopping_cart_black_24dp.png"
     }
 ]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\SAWE PETER\\.android\\build-cache\\7666996aa8b0b687dd66c64646af7aca8ea77f72\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\SAWE PETER\\.android\\build-cache\\7666996aa8b0b687dd66c64646af7aca8ea77f72\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\SAWE PETER\\.android\\build-cache\\7666996aa8b0b687dd66c64646af7aca8ea77f72\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\SAWE PETER\\.android\\build-cache\\7666996aa8b0b687dd66c64646af7aca8ea77f72\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]
