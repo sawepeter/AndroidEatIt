@@ -66,7 +66,9 @@ public class Home extends AppCompatActivity
         View headerview= navigationView.getHeaderView(0);
         txtFullName = (TextView)findViewById(R.id.txtfullName);
         txtFullName.setText(Common.currentuser.getName());
-        
+
+
+        //load menu
     }
 
     @Override
