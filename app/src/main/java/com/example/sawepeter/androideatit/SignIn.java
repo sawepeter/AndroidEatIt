@@ -56,7 +56,7 @@ public class SignIn extends AppCompatActivity {
                             if (sawe.getPassword().equals(edtPassword.getText().toString())) {
 
                                 Intent homeIntent = new Intent(SignIn.this,Home.class);
-                                Common.currentuser = user;
+                                Common.currentuser = sawe;
                                 startActivity(homeIntent);
                                 finish();
                             } else {
