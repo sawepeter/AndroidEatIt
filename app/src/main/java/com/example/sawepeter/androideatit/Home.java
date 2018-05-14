@@ -14,6 +14,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.TextView;
 
+import com.example.sawepeter.androideatit.Common.Common;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 
@@ -58,7 +59,7 @@ public class Home extends AppCompatActivity
         //set Name for user
         View headerview= navigationView.getHeaderView(0);
         txtfullname = (TextView)findViewById(R.id.txtfullname);
-        txtfullname.setText();
+        txtfullname.setText(Common.currentuser.getName());
     }
 
     @Override
