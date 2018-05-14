@@ -9,6 +9,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
+import com.example.sawepeter.androideatit.Common.Common;
 import com.example.sawepeter.androideatit.Model.user;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
@@ -55,6 +56,9 @@ public class SignIn extends AppCompatActivity {
                             if (sawe.getPassword().equals(edtPassword.getText().toString())) {
 
                                 Intent homeIntent = new Intent(SignIn.this,Home.class);
+                                Common.currentuser = user;
+                                startActivity(homeIntent);
+                                finish();
                             } else {
                                 Toast.makeText(SignIn.this, "Incorrect Password !!!", Toast.LENGTH_SHORT).show();
                             }
