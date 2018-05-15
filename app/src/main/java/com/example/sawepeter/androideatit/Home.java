@@ -3,6 +3,7 @@ package com.example.sawepeter.androideatit;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
+import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
 import android.support.design.widget.NavigationView;
@@ -69,7 +70,18 @@ public class Home extends AppCompatActivity
 
 
         //load menu
+        recyler_menu = (RecyclerView)findViewById(R.id.recycler_menu);
+        recyler_menu.setHasFixedSize(true);
+        layoutManager = new LinearLayoutManager(this);
+        recyler_menu.setLayoutManager(layoutManager);
+
+        loadMenu();
     }
+
+    private void loadMenu() {
+
+    }
+
 
     @Override
     public void onBackPressed() {
