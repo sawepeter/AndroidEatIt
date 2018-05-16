@@ -100,6 +100,7 @@ public class Home extends AppCompatActivity
                 });
             }
         };
+        recyler_menu.setAdapter(adapter);
 
     }
 
