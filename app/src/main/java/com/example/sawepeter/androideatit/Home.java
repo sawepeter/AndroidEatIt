@@ -86,7 +86,7 @@ public class Home extends AppCompatActivity
         FirebaseRecyclerAdapter<Category,MenuViewHolder> adapter = new FirebaseRecyclerAdapter<Category, MenuViewHolder>(Category.class,R.layout.menu_item,MenuViewHolder.class,category) {
             @Override
             protected void populateViewHolder(MenuViewHolder viewHolder, Category model, int position) {
-
+                viewHolder.txtMenuName.setText(model.getName());
             }
         };
 
