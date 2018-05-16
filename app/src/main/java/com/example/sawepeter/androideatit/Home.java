@@ -17,6 +17,9 @@ import android.view.MenuItem;
 import android.widget.TextView;
 
 import com.example.sawepeter.androideatit.Common.Common;
+import com.example.sawepeter.androideatit.Model.Category;
+import com.example.sawepeter.androideatit.ViewHolder.MenuViewHolder;
+import com.firebase.ui.database.FirebaseRecyclerAdapter;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 
@@ -79,6 +82,13 @@ public class Home extends AppCompatActivity
     }
 
     private void loadMenu() {
+
+        FirebaseRecyclerAdapter<Category,MenuViewHolder> adapter = new FirebaseRecyclerAdapter<Category, MenuViewHolder>() {
+            @Override
+            protected void populateViewHolder(MenuViewHolder viewHolder, Category model, int position) {
+                
+            }
+        }
 
     }
 
