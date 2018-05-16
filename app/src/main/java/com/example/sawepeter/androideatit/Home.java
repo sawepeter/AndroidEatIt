@@ -15,8 +15,10 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.example.sawepeter.androideatit.Common.Common;
+import com.example.sawepeter.androideatit.Interface.ItemClickListener;
 import com.example.sawepeter.androideatit.Model.Category;
 import com.example.sawepeter.androideatit.ViewHolder.MenuViewHolder;
 import com.firebase.ui.database.FirebaseRecyclerAdapter;
@@ -89,6 +91,13 @@ public class Home extends AppCompatActivity
             protected void populateViewHolder(MenuViewHolder viewHolder, Category model, int position) {
                 viewHolder.txtMenuName.setText(model.getName());
                 Picasso.with(getBaseContext()).load(model.getImage()).into(viewHolder.imageview);
+                final Category clickitem = model;
+                viewHolder.setItemClickListener(new ItemClickListener() {
+                    @Override
+                    public void onClick(View view, int position, boolean isLongClick) {
+                        Toast.makeText(Home.this, ""+clickitem.getName(),Toast.LENGTH_SHORT).show();
+                    }
+                });
             }
         };
 
