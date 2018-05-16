@@ -5,6 +5,7 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.example.sawepeter.androideatit.Interface.ItemClickListener;
 import com.example.sawepeter.androideatit.R;
 
 /**
@@ -15,6 +16,8 @@ public class MenuViewHolder extends RecyclerView.ViewHolder implements View.OnCl
 
     public TextView txtMenuName;
     public ImageView imageview;
+
+    private ItemClickListener itemClickListener;
 
     public MenuViewHolder(View itemView) {
         super(itemView);
