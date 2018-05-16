@@ -88,7 +88,7 @@ public class Home extends AppCompatActivity
             protected void populateViewHolder(MenuViewHolder viewHolder, Category model, int position) {
 
             }
-        }
+        };
 
     }
 
