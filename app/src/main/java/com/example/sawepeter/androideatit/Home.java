@@ -71,7 +71,7 @@ public class Home extends AppCompatActivity
 
         //set Name for user
         View headerview= navigationView.getHeaderView(0);
-        txtFullName = (TextView)findViewById(R.id.txtfullName);
+        txtFullName = (TextView)headerview.findViewById(R.id.txtfullName);
         txtFullName.setText(Common.currentuser.getName());
 
 
