@@ -20,12 +20,12 @@
         "source": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable\\food.jpg"
     },
     {
-        "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.jpg",
-        "source": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable\\bg.jpg"
-    },
-    {
         "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
         "source": "C:\\Users\\SAWE PETER\\.android\\build-cache\\7666996aa8b0b687dd66c64646af7aca8ea77f72\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.jpg",
+        "source": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\AndroidEatIt\\app\\src\\main\\res\\drawable\\bg.jpg"
     },
     {
         "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\AndroidEatIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",

@@ -85,6 +85,7 @@ ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\AndroidEatIt\app\src\main\A
 		ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml:23:13-33
 uses-sdk
 INJECTED from C:\Users\SAWE PETER\AndroidStudioProjects\AndroidEatIt\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\SAWE PETER\.android\build-cache\140e0b36733baac103e574a5d6ad5f810236b131\output\AndroidManifest.xml:18:5-42
 MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\SAWE PETER\.android\build-cache\94e54e0edf8337abfc9ec5914e5074e66ec2094c\output\AndroidManifest.xml:5:5-7:41
 MERGED from [info.hoang8f:fbutton:1.0.5] C:\Users\SAWE PETER\.android\build-cache\3eaf7fbb53b7700d19dd60c1c8a6ff58fa11ce34\output\AndroidManifest.xml:7:5-9:41
 MERGED from [com.rengwuxian.materialedittext:library:2.1.4] C:\Users\SAWE PETER\.android\build-cache\b7a1c0f37a727d17e528fe0cacb68ef4072e51de\output\AndroidManifest.xml:6:5-8:41

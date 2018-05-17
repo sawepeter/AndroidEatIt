@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAWE PETER\.android\build-cache\b96d5d2bdab288a5f05bf8e7f8bc46b2624b0e54\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\SAWE PETER\AndroidStudioProjects\AndroidEatIt\app\build\intermediates\pre-dexed\debug\classes_a4c8aab835a15d818d086fb63ccd5c8aa7908ca8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAWE PETER\.android\build-cache\c0fdae63d1d6067e5a8d9e4f950b4d250903f9de\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Users\SAWE PETER\AndroidStudioProjects\AndroidEatIt\app\build\intermediates\pre-dexed\debug\classes_c5453e5d49795c83344d4e14579b490adcaf024c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAWE PETER\.android\build-cache\421895b34f1c1718f76f71cacdc825ec47d03c68\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\SAWE PETER\AndroidStudioProjects\AndroidEatIt\app\build\intermediates\pre-dexed\debug\classes_0ce69b00700b2d9625a9f85aef00e05c2f24fe8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAWE PETER\.android\build-cache\84d0b6c0f58ecafbd34d5b0e9ae8cc70415713ab\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\SAWE PETER\AndroidStudioProjects\AndroidEatIt\app\build\intermediates\pre-dexed\debug\classes_56d2c52a758c7c4882da997eb2a93841e310b44a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAWE PETER\.android\build-cache\3dd49742a1e69ea4b878d97460a3d4ac166d24a1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="C:\Users\SAWE PETER\AndroidStudioProjects\AndroidEatIt\app\build\intermediates\pre-dexed\debug\classes_d876ae81230086634b56d1546ca854aafb11283a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAWE PETER\.android\build-cache\2fcae86da77f10797ee2aa8e0a1609931ee2dc9e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\SAWE PETER\AndroidStudioProjects\AndroidEatIt\app\build\intermediates\pre-dexed\debug\classes_44f421dece87358b49e15c0ddb8f4843049a0b08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAWE PETER\.android\build-cache\bfe3762db85e81e1253821348901eaa595a51317\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="C:\Users\SAWE PETER\AndroidStudioProjects\AndroidEatIt\app\build\intermediates\pre-dexed\debug\classes_34feb962142dd1bfd44a75b937d1ac2a83bc438b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAWE PETER\.android\build-cache\56e156cda2f559fd709a3397619b3e81a28fefdb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="C:\Users\SAWE PETER\AndroidStudioProjects\AndroidEatIt\app\build\intermediates\pre-dexed\debug\classes_49b95b0cfc23591b675b9919ab1f6bb4ecf56fb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAWE PETER\.android\build-cache\3cbd9499a4759ade6e34317fa01a39e964b6f586\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0e301f24b283f14b564f660c9abe863af6be5896">
+        <dex dex="C:\Users\SAWE PETER\AndroidStudioProjects\AndroidEatIt\app\build\intermediates\pre-dexed\debug\classes_12c30445b33793e30c9ce935a218a5d0b562591e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAWE PETER\.android\build-cache\3c8a79129dfeaf22e5ed0c0c1a0e51da4e4f2ef6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="C:\Users\SAWE PETER\AndroidStudioProjects\AndroidEatIt\app\build\intermediates\pre-dexed\debug\classes_ecbdd274fee3f8ce8b1236cb94e0291a86bd347b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\SAWE PETER\AndroidStudioProjects\AndroidEatIt\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_6b7bdd64075f27ac794055998accebfc57200291.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAWE PETER\.android\build-cache\0589b899b04bafba2a7286d2a0bd120052bb3bd3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\SAWE PETER\AndroidStudioProjects\AndroidEatIt\app\build\intermediates\pre-dexed\debug\classes_3b2fbfaa848f3184b7551f9d1c83d63cec5c094a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAWE PETER\.android\build-cache\3197f1240d487c8d747a68a0e75bd2fbd62d0111\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\SAWE PETER\AndroidStudioProjects\AndroidEatIt\app\build\intermediates\pre-dexed\debug\classes_03ed1ab853a8d6b089058d995cf77f7a0fa4d2c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAWE PETER\.android\build-cache\83246925cdaeaec7071e808a1c9224eb31c77d74\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\SAWE PETER\AndroidStudioProjects\AndroidEatIt\app\build\intermediates\pre-dexed\debug\classes_204947a0068b72b866d56e695c1beb001a06dd82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAWE PETER\.android\build-cache\7666996aa8b0b687dd66c64646af7aca8ea77f72\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\SAWE PETER\AndroidStudioProjects\AndroidEatIt\app\build\intermediates\pre-dexed\debug\classes_a2589b00703d7d9154d8a971063ec265ae00c48f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAWE PETER\.android\build-cache\b50f2c5cc4bdf15cb522ef4426f1f28222767a2a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\SAWE PETER\AndroidStudioProjects\AndroidEatIt\app\build\intermediates\pre-dexed\debug\classes_d663d7a161c44d35dd2cbf9a32641e978b506a97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAWE PETER\.android\build-cache\cb1f6c3f9eaeeeb529badea405a8d3d255f63fec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f5bcd9cbfeedc58f493339841a7c5d0347a39f0b">
+        <dex dex="C:\Users\SAWE PETER\AndroidStudioProjects\AndroidEatIt\app\build\intermediates\pre-dexed\debug\classes_33079b95784c98ab170a904071389bee152bf71a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAWE PETER\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\SAWE PETER\AndroidStudioProjects\AndroidEatIt\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_92fe8a846f166c17e3f96518289d20900ead4679.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAWE PETER\.android\build-cache\4eb21f3bfed4ad2340495414e9ed64e7a9a06140\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="94fca868854457ede6df15c902938468c71d579e">
+        <dex dex="C:\Users\SAWE PETER\AndroidStudioProjects\AndroidEatIt\app\build\intermediates\pre-dexed\debug\classes_28e8bdd5de824d55ed19da13eb05fd26490599e0.jar" />
+    </item>
+
+</items>
